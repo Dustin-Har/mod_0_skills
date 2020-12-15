@@ -1,0 +1,13 @@
+var food = "burrito";
+var isDelicious = true;
+
+//re-assignment
+food = "pizza";
+
+var num2 = "2";
+var num7 = "6";
+var quotient = num7 / num2;
+
+var songs("let down", "without you", "rain", "downfall");
+console.log(songs.slice(1));
+console.long({food} {str.length})
