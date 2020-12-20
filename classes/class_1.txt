@@ -1,13 +1,13 @@
 class = Fast Food
 
 Attributes:
-availableSeats (integer)
-menu (Array)
-burgerPrice (Float)
-driveThrough (boolean)
+AvailableSeats (integer)
+Menu (Array)
+BurgerPrice (Float)
+DriveThrough (boolean)
 
 Methods:
-leavingCustomer (+1 to availableSeats)
-brakeIceCreamMachine (remove ice cream from menu attribute)
-lowerPriceByHalfCoupon (lower burgerPrice by half)
-buildDriveThrough (turn driveThrough to true)
+RemoveCustomer (+1 to availableSeats)
+BrakeIceCreamMachine (remove ice cream from menu attribute)
+LowerPriceByHalfCoupon (lower burgerPrice by half)
+BuildDriveThrough (turn driveThrough to true)

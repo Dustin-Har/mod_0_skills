@@ -6,8 +6,7 @@ burgerPrice (3.50)
 driveThrough (true)
 
 Methods:
-leavingCustomer (44)
+removeCustomer (44)
 brakeIceCreamMachine ("burger, "fries", "chicken nuggets")
 lowerPriceByHalfCoupon (1.75)
 buildDriveThrough (true)
- 
