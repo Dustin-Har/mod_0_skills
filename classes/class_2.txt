@@ -2,7 +2,7 @@ class = fine dinning
 
 Attributes:
 TablesAvailable (integer)
-AquareFootage (integer)
+SquareFootage (integer)
 AlcoholAvailable (boolean)
 TableType (string)
 
