@@ -1,13 +1,13 @@
-class = fine dinning
+class = FineDinning
 
 Attributes:
-TablesAvailable (integer)
-SquareFootage (integer)
-AlcoholAvailable (boolean)
-TableType (string)
+tablesAvailable (integer)
+squareFootage (integer)
+alcoholAvailable (boolean)
+tableType (string)
 
 Methods:
-AddParty (-1 to tablesAvailable)
-BuildAddition (+100 to squareFootage attribute)
-BuildBar (turn alcoholAvailable to true)
-BuySquareTable (turn tableType to square)
+addParty (-1 to tablesAvailable)
+buildAddition (+100 to squareFootage attribute)
+buildBar (turn alcoholAvailable to true)
+buySquareTable (turn tableType to square)

@@ -1,13 +1,13 @@
-class = Outback Steakhouse
+class = OutbackSteakhouse
 
 Attributes:
-TablesAvailable (30)
-SquareFootage (6000)
-AlcoholAvailable (true)
-TableType ("round")
+tablesAvailable (30)
+squareFootage (6000)
+alcoholAvailable (true)
+tableType ("round")
 
 Methods:
-AddParty (29)
-BuildAddition (6100)
-BuildBar (true)
-BuySquareTable ("square")
+addParty (29)
+buildAddition (6100)
+buildBar (true)
+buySquareTable ("square")

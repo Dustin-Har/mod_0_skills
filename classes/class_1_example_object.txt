@@ -1,5 +1,6 @@
 instance = McDonalds
 
+Attributes:
 availableSeats (43)
 menu ("burger", "fries", "ice Cream", "chicken nuggets")
 burgerPrice (3.50)
